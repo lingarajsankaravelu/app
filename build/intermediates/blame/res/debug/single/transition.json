@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lingaraj/Desktop/adapter-master/PacificAdapter/app/build/intermediates/res/merged/debug/transition/activity_slide.xml",
+        "source": "/Users/lingaraj/Desktop/adapter-master/PacificAdapter/app/src/main/res/transition/activity_slide.xml"
+    },
+    {
+        "merged": "/Users/lingaraj/Desktop/adapter-master/PacificAdapter/app/build/intermediates/res/merged/debug/transition/activity_fade.xml",
+        "source": "/Users/lingaraj/Desktop/adapter-master/PacificAdapter/app/src/main/res/transition/activity_fade.xml"
+    }
+]
